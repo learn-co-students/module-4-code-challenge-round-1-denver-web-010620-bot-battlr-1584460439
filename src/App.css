@@ -1,3 +1,7 @@
+.App {
+  background-color: lightblue;
+}
+
 .bot-army {
   overflow-x: scroll;
   min-height: 300px;
